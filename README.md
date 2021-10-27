@@ -3,6 +3,8 @@
 Weather app UI by using #Flutter.
 On our Weather app #UI has two pages one for the current day weather which show different time weather with 3D images. Second page is the details page, it shows the next seven days weather with other details with 3D icons and glow text.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/PathwayYT)
+
 [Youtube](https://youtu.be/HDbpc7MXxFc)
 
 [Design Inspiration](https://dribbble.com/shots/15661680-Weather-App)
